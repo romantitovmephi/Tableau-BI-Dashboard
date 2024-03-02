@@ -1,5 +1,4 @@
 ## Дашборд построенный в Tableau по БД Northwind
-(Northwind database by Microsoft)
 
 ![Scheme1](https://github.com/romantitovmephi/Tableau-BI-Dashboard/blob/main/pics/Sale%20Map.png)
 
